@@ -1,2 +1,6 @@
 .DS_Store
 /Final_Project/data
+/data/parcel.data
+/data/xref_partitioned.parquet
+/__pycache__
+/data
